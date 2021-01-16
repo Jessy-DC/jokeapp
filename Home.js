@@ -1,7 +1,7 @@
 import React from 'react';
 import {View, Text} from "react-native";
 import {DesignInterface} from "./design/design";
-import {Button} from "react-native-web";
+import {Button} from "react-native";
 
 export const Home = ({navigation}) => {
     return (
